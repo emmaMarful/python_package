@@ -11,5 +11,5 @@ _pythonhow.png_
 _invoicing_
 
 ## modules
-_eInvoice.py
+_eInvoice.py_
 ___init___
